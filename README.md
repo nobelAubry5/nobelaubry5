@@ -1,8 +1,17 @@
-<div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+### Bonjour 👋, Je suis Aubry Nobel Niyonkuru
+
+- Découvrez mes réalisations sur mon [portofolio](https://nobelaubry5.com).
+- 🏫 Étudiant de la TIM(Technique d'intégration multimédia) au cégep de Sainte-Foy. Dernière année d'études en 2024.
+- 💼 Je suis à l'aise avec : `HTML`,`CSS`,`Javascript`,`React`,`Tailwind`,`Boostrap`,`Wordpress`
+- 📫 Si vous souhaitez me contacter: [nobelaubry5@gmail.com](mailto:nobelaubry5@gmail.com)
+
+### Hi there 👋, I'm Aubry Nobel Niyonkuru
+
+- Feel free to checkout my [portofolio](https://nobelaubry5.com) website.
+- 🏫 Student at cégep de Sainte-Foy. Finishing in 2024.
+- 💼 I can build with: `HTML`,`CSS`,`Javascript`,`React`,`Tailwind`,`Boostrap`,`Wordpress`
+- 📫 Reach out to me: [nobelaubry5@gmail.com](mailto:nobelaubry5@gmail.com)
+
 
 
 <!--
