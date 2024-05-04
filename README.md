@@ -2,7 +2,7 @@
 
 - Découvrez mes réalisations sur mon [portofolio](https://nobelaubry5.com).
 - 🏫 Étudiant de la TIM(Technique d'intégration multimédia) au cégep de Sainte-Foy. Dernière année d'études en 2024.
-- 💼 Je suis à l'aise avec : `HTML`,`CSS`,`Javascript`,`React`,`Tailwind`,`Boostrap`,`Wordpress`
+- 💼 Je suis à l'aise avec : `HTML`,`CSS`,`Javascript`,`React`,`Next.js`,`Tailwind`,`Boostrap`,`Wordpress`
 - 📫 Si vous souhaitez me contacter: [nobelaubry5@gmail.com](mailto:nobelaubry5@gmail.com)
 
 ### Hi there 👋, I'm Aubry Nobel Niyonkuru
