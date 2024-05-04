@@ -9,7 +9,7 @@
 
 - Feel free to checkout my [portofolio](https://nobelaubry5.com) website.
 - 🏫 Student at cégep de Sainte-Foy. Finishing in 2024.
-- 💼 I can build with: `HTML`,`CSS`,`Javascript`,`React`,`Tailwind`,`Boostrap`,`Wordpress`
+- 💼 I can build with: `HTML`,`CSS`,`Javascript`,`React`,`Next.js`,`Tailwind`,`Boostrap`,`Wordpress`
 - 📫 Reach out to me: [nobelaubry5@gmail.com](mailto:nobelaubry5@gmail.com)
 
 
